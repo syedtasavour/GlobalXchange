@@ -1,7 +1,3 @@
-# Notes for Currency Converter App
-
-This document provides an overview of the Currency Converter App and its functionality.
-
 ## Overview
 
 The app is designed to allow users to convert amounts between different currencies. It features a user-friendly interface where users can input an amount, select currencies, and view the conversion results.
